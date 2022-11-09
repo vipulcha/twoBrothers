@@ -1,0 +1,12 @@
+.inOptions{
+    margin-top:60px;
+   background-color:#242424;
+}
+.inOptionsHead{
+    color:#2596be;
+    margin:5px auto;
+    text-transform: capitalize;
+    font-size: 400%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
